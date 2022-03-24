@@ -22,7 +22,7 @@ function App() {
           </svg>
         </div>
         <label style={{ fontWeight: 600, fontSize: '32px', marginBottom: '8px' }}>
-          Enrollment Agent
+          Enrolment Agent
         </label>
         <text style={{ fontSize: '16px' }}>
           by <b>Darren Emir Hazmy </b> (1181302886)
